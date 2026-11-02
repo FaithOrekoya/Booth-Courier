@@ -1,0 +1,8 @@
+{
+  "name": "Remix Booth Courier Service LLC - Intermodal Freight \u0026 Drayage Logistics",
+  "description": "Intermodal logistics and drayage coordination moving freight efficiently from port to rail to final mile across North America.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
